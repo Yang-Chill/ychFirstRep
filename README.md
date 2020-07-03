@@ -1,2 +1,2 @@
 # ychfirst
-### Welcome to my first reponsity
+### Welcome to my first reponsitory!
